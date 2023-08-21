@@ -18,8 +18,6 @@ Ever since I took my first Physics course I have been disappointed with the meth
 
 Aside from the difficulty of referencing my notes or books for certain material I also want to give these notes some interactivity. Interactivity allows the user to change things and see what happens, it provides more intuition about the concepts being learned if one has the ability to interact with the learning environment. 
 
-<!-- TODO: Change this page into a jupyter notebook to show an example of interactivity. Something simple like projectile motion with variable initial conditions could be used.  -->
-
 Much of these notes are also a way for me to practice physics and computer programming. The notes themselves are are all written in Jupyter Notebooks with some computational aspects included. Then i use the [jupyter {book}](www.jupyterbook.org) project to convert the notebook files into html. 
 
 All below are a work in progress:
@@ -30,7 +28,7 @@ All below are a work in progress:
 [Machine Learning](https://Physics-Enjoyer.github.io/machine_learning) -->
 
 ---
-# Resources 
+## Resources 
 
 There are many great resources available online already for learning physics which can be found on the [Resources](resources.md) page.
 
@@ -47,8 +45,8 @@ Machine Learning -->
 TODO: add this ::: 
 A very good knowledge of calculus in one and multiple variables is needed, as well as linear algebra: basis, vectors, change of basis, diagonalization, eigenvectors and eigenvalues. This is the basic which is needed to understand basic physics concepts of classical mechanics and ED; further mathematical methods will be taught during the courses and will be needed to (try to) understand qm and approach qft in eventual major studies and differential equations 
 -->
+## Blog
 
----
-## Research
+If you're interested in my incoherent ramblings then by all means head on over to my [blog](https://Physics-Enjoyer.github.io/blog). 
 
-Nothing to see here
+
