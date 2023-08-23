@@ -20,9 +20,9 @@ Much of these notes are also a way for me to practice physics and computer progr
 All below are a work in progress:
 
 [Classical Mechanics](https://physics-enjoyer.github.io/classical_mechanics/intro.html) \
-[Electrodynamics](https://Physics-Enjoyer.github.io/electrodynamics) 
-<!-- [Spectral Analysis](https://Physics-Enjoyer.github.io/spectral_analysis) \
-[Machine Learning](https://Physics-Enjoyer.github.io/machine_learning) -->
+[Electrodynamics](https://Physics-Enjoyer.github.io/electrodynamics) \
+[Spectral Analysis](https://Physics-Enjoyer.github.io/spectral_analysis) \
+<!-- [Machine Learning](https://Physics-Enjoyer.github.io/machine_learning) -->
 
 ---
 ## Resources 
